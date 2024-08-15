@@ -8,6 +8,9 @@
   - [Benchmark \& datasets](#benchmark--datasets)
   - [Survey](#survey)
   - [Papers](#papers)
+    - [Argument Mining](#argument-mining)
+    - [Argument Generation](#argument-generation)
+    - [Quality Assessment](#quality-assessment)
   - [Contributing](#contributing)
 
 
@@ -19,5 +22,11 @@
 ## Survey
 
 ## Papers
+
+### Argument Mining
+
+### Argument Generation
+
+### Quality Assessment
 
 ## Contributing
