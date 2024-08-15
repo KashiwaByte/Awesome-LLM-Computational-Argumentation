@@ -1,5 +1,5 @@
 # Awesome-LLM-Computational-Argumentation
-
+The House of Computational Argumentation in the Era of Large Models, where you can find surveys, papers, datasets, benchmarks, and evaluations of commonly used LLMs on computational Argumentation tasks.
 ## Table of Contents
 
 - [Awesome-LLM-Computational-Argumentation](#awesome-llm-computational-argumentation)
