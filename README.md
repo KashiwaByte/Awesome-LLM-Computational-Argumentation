@@ -31,9 +31,23 @@ The Hub of Computational Argumentation in the Era of LLM, where you can find sur
 |2024-06|[OpenDebateEvidence: A Massive-Scale Argument Mining and Summarization Dataset](https://arxiv.org/abs/2406.14657)|ACL 2024
 |2024-02|[Can LLMs Speak For Diverse People? Tuning LLMs via Debate to Generate Controllable Controversial Statements](https://arxiv.org/abs/2402.10614)|	ACL 2024
 |2023-12|[FREDSum: A Dialogue Summarization Corpus for French Political Debates](https://arxiv.org/abs/2312.04843)|EMNLP2023
+|2023-11|[Automatic Analysis of Substantiation in Scientific Peer Reviews](https://arxiv.org/abs/2311.11967)|EMNLP 2023
+|2022-06|[QT30: A Corpus of Argument and Conflict in Broadcast Debate](https://aclanthology.org/2022.lrec-1.352/)|ACL 2022
 |2022-04|[Single-Turn Debate Does Not Help Humans Answer Hard Reading-Comprehension Questions](https://arxiv.org/abs/2204.05212)|ACL 2022
 | 2022-03| [IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks](https://arxiv.org/abs/2203.12257)|ACL
+|2021-02|[SummEval: Re-evaluating Summarization Evaluation](https://arxiv.org/abs/2007.12626)|tacl
+|2021-01|[Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale](https://arxiv.org/abs/2101.10250)|EACL 2021
+|2020-12|[Transformer-Based Argument Mining for Healthcare Applications](https://ecai2020.eu/papers/1470_paper.pdf)|ECAI 2020
+|2020-10|[Detecting Attackable Sentences in Arguments](https://arxiv.org/abs/2010.02660)|EMNLP 2020
+|2020-10|[Unsupervised Expressive Rules Provide Explainability and Assist Human Experts Grasping New Domains](https://arxiv.org/abs/2010.09459)|EMNLP
+|2020-06|[Rhetoric, Logic, and Dialectic: Advancing Theory-based Argument Quality Assessment in Natural Language Processing](https://arxiv.org/abs/2006.00843)|COLING
+|2020-05|[USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation](https://arxiv.org/abs/2005.00456)|ACL 2020
+|2019-09|[A Dataset of General-Purpose Rebuttal](https://arxiv.org/abs/1909.00393)|EMNLP 2019
+|2019-06|[Exploring the Role of Prior Beliefs for Argument Persuasion](https://arxiv.org/abs/1906.11301)|ACL 2018
 |2019-06 |[A Corpus for Modeling User and Language Effects in Argumentation on Online Debating](https://arxiv.org/abs/1906.11310)|ACL
+|2018-02|[Cross-topic Argument Mining from Heterogeneous Sources Using Attention-based Neural Networks](https://arxiv.org/abs/1802.05758)|EMNLP
+|2017-04|[Recognizing Insufficiently Supported Arguments in Argumentative Essays](https://aclanthology.org/E17-1092/)|EACL
+|2016-04|[Parsing Argumentation Structures in Persuasive Essays](https://arxiv.org/abs/1604.07370)|Computational Linguistics
 
 
 
@@ -97,7 +111,10 @@ The Hub of Computational Argumentation in the Era of LLM, where you can find sur
 |2022-12|[Claim Optimization in Computational Argumentation](https://arxiv.org/abs/2212.08913)| INLG 2023
 |2022-03|[Automatic Debate Evaluation with Argumentation Semantics and Natural Language Argument Graph Networks](https://arxiv.org/abs/2203.14647)|EMNLP 2023
 |2021-10|[Assessing the Sufficiency of Arguments through Conclusion Generation](https://arxiv.org/abs/2110.13495)|EMNLP 2021
+|2020-12|[Rhetoric, Logic, and Dialectic: Advancing Theory-based Argument Quality Assessment in Natural Language Processing](https://arxiv.org/abs/2006.00843)|COLING 20
 |2020-10|[Exploring the Role of Argument Structure in Online Debate Persuasion](https://arxiv.org/abs/2010.03538)|EMNLP 2020
+|2019-09|[A Large-scale Dataset for Argument Quality Ranking: Construction and Analysis](https://arxiv.org/abs/1911.11408)| AAAI 2020
+|2019-09|[Automatic Argument Quality Assessment -- New Datasets and Methods](https://arxiv.org/abs/1909.01007)|EMNLP 2019
 
 
 ### Debate For LLM 
